@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package edu.unl.cc.poo.seventhsuccession.business;
 
 /**
@@ -16,7 +12,7 @@ import java.math.RoundingMode;
 
 /**
  * Clase que calcula la serie de primos elevados a la raíz inversa de números impares.
- * La serie es: S = 1^(1/1) + 3^(1/3) + 5^(1/5) + 7^(1/7) + 11^(1/9) + 13^(1/11) + ...
+ * La serie es: S = 2^(1/1) + 3^(1/3) + 5^(1/5) + 7^(1/7) + 11^(1/9) + 13^(1/11) + ...
  */
 public class PrimeSeriesRaisedToRoot implements Successionable {
 
